@@ -16,7 +16,7 @@ RAG: Retrieval Augmented Generation
 
 Installation
 Clone the repository:
-git clone https://github.com/luan-hillne/tourist_RASA.git
+https://github.com/starkthefighter/RASA_chatbot.git
 
 Create and Activate virtual environment: 
 python -m venv ./venv
