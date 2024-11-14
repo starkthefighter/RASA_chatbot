@@ -1,4 +1,4 @@
-# Tourist Information Chatbot
+# ChatBot Guide
 
 ## Project Overview
 This project is a **Tourist Information Chatbot** designed to assist users in finding tourist attractions, hotels, restaurants, and transportation in various locations. The chatbot provides personalized recommendations based on the user's preferences, such as location and budget.
